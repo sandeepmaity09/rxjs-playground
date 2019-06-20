@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-observable-practice",
+  "version": "1.0.0",
+  "description": "Playground with Rxjs",
+  "main": "index.js",
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandeepmaity09/rxjs-playground.git"
+  },
+  "keywords": [
+    "reactive-programming",
+    "rxjs"
+  ],
+  "author": "ghost",
+  "license": "ISC"
+}
